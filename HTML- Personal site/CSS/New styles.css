@@ -1,0 +1,37 @@
+/******************************tagselector**********************************/
+body {
+  background-color: #FDB9FC;
+}
+
+h1 {
+  color: #FFEDED;font-style: oblique;font-family: cursive;
+}
+h3{
+  color: yellow;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  height: 0px;
+  width: 10%;
+}
+/********************************classselector******************************/
+.img1{
+  background-color: yellow;
+}
+.img2:hover{
+  background-color: orange;
+}
+.img3:hover{
+  background-color: green;
+}
+
+
+/********************************idselector******************************/
+
+#name{
+  font-family: cursive;
+}
+
+/********************************sudo class is  :hover **************************/

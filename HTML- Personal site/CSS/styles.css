@@ -1,0 +1,14 @@
+<style>
+h1 {
+  color: #ED50F1;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  height: 0px;
+  width: 10%;
+}
+
+</style>
